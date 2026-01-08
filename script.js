@@ -1,3 +1,5 @@
+// mouse pointer tracker
+
 const mouseTracker = document.querySelector(".mouse-tracker");
 const result = document.querySelector(".result");
 
